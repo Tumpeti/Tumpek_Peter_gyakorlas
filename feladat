@@ -1,0 +1,29 @@
+Vegyes gyakorló feladatok
+
+Minden feladatot külön metódusban kell elkészíteni!
+
+Minden feladathoz teljes szöveges kiírást kérek, nem csak a végeredményt!
+
+A feladat leadása github-on keresztül történik, github linket kérek!
+
+Projekt neve: Sajat_nev_gyakorlas
+
+    Készíts egy sorozat nevű tömböt a következő elemekkel: -3, 5, 11, -2, 4
+    Készíts egy metódust, ami kiírja a tömb elemeit egymás mellé, a metódus
+    paraméterében kapott szeparátor felhasználásával! Az utolsó elem után ne
+    legyen szeparátor!
+
+pl: separator:  #    à -3# 5# 11# -2# 4
+
+    Változtasd meg a tömb elemeit a következő módon:
+        A tömb első eleméhez adj egy véletlenszámot a [5; 12] intervallumból!
+
+        Az utolsó elem értékét kérd be, ez páratlan hárommal osztható kétjegyű
+        szám legyen! Ha nem ilyen számot adnak meg, akkor addig folytassa a program
+         a bekérést, amíg megfelelő nem lesz a bekért szám! A bekéréshez készíts
+          külön függvényt!
+        Használd a 2. feladat kiíró metódusát paraméter nélkül, ekkor szóközzel
+        írja ki a tömb elemeit, egymás mellé!
+        Add meg az első kétjegyű szám helyét és  értékét a tömbből!
+        Számold meg, hogy hány prímszám van a tömbben! Ehhez készíts külön
+        függvényt, ami eldönti, hogy a paraméterében kapott szám prímszám-e?
